@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+*kilo
 *.exe
 *.out
 *.app
@@ -51,3 +52,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Other
+*.txt
